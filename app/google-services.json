@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "907378210407",
+    "firebase_url": "https://badminton-team-management-default-rtdb.firebaseio.com",
+    "project_id": "badminton-team-management",
+    "storage_bucket": "badminton-team-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907378210407:android:8e91e1a6d48d15aef3c6c2",
+        "android_client_info": {
+          "package_name": "com.example.badminton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLH5q79ImPkaI06HYu8bTLzIw8v84Mq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907378210407:android:890d37e17380556ff3c6c2",
+        "android_client_info": {
+          "package_name": "com.example.badmintonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLH5q79ImPkaI06HYu8bTLzIw8v84Mq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907378210407:android:bd234cedbf4cd922f3c6c2",
+        "android_client_info": {
+          "package_name": "com.example.playerstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLH5q79ImPkaI06HYu8bTLzIw8v84Mq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907378210407-f2cg6g5r6mas36arsvpm0uslah6dhiv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

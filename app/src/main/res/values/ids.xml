@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homeBtn" type="id" />
+    <item name="textView3" type="id" />
+    <item name="Logout" type="id" />
+    <item name="calendarBtn" type="id" />
+    <item name="accountBtn" type="id" />
+    <item name="EnterScore" type="id" />
+    <item name="SaveScore" type="id" />
+    <item name="matchesBtn" type="id" />
+    <item name="DisplayScore" type="id" />
+    <item name="ShowScore" type="id" />
+    <item name="ShowMatches" type="id" />
+    <item name="MatchPlayed" type="id" />
+    <item name="Elo" type="id" />
+    <item name="profilePic" type="id" />
+    <item name="showData" type="id" />
+    <item name="Result" type="id" />
+</resources>

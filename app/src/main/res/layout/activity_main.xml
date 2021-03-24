@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8CD03"
+    tools:context=".ShowPlayers">
+
+    <ImageButton
+        android:id="@+id/homeBtn"
+        android:layout_width="29dp"
+        android:layout_height="26dp"
+        android:background="#F8CD03"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.138"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937"
+        app:srcCompat="@drawable/home_24px" />
+
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="298dp"
+        android:layout_height="53dp"
+        android:text="View Data"
+        app:backgroundTint="#142D4B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.738" />
+
+    <Button
+        android:id="@+id/Logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="Logout"
+        android:text="Logout"
+        app:backgroundTint="#142D4B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.827"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/calendarBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="52dp"
+        android:layout_marginLeft="52dp"
+        android:background="#F8CD03"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.934"
+        app:srcCompat="@drawable/calendar_today_24px"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageButton
+        android:id="@+id/accountBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F8CD03"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.868"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.934"
+        app:srcCompat="@drawable/account_box_24px"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageButton
+        android:id="@+id/matchesBtn"
+        android:layout_width="29dp"
+        android:layout_height="27dp"
+        android:background="#F8CD03"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.934"
+        app:srcCompat="@drawable/sports_score_24px"
+        tools:ignore="VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/MatchPlayed"
+        android:layout_width="0dp"
+        android:layout_height="27dp"
+        app:layout_constraintBottom_toTopOf="@+id/Logout"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ViewTeams"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F8CD03"
+        android:src="@drawable/groups_24px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.689"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
