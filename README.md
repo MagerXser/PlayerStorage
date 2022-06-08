@@ -35,7 +35,9 @@ sign up.
 
 Once on the sign-up page, there are 4 fields that will be needed to be complete. Each of the fields will have a certain 
 way in order to have a successful registration e.g Email will have to be in proper email format or password has to be a 
-certain length for it to be valid.![](screenshots/signup.png) 
+certain length for it to be valid.
+
+![](screenshots/signup.png) 
 
 If not filled in correctly there will be warning signs to show that there are some
 problems with how it was fill out. After a successful registration you will automatically log into the application.
