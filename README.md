@@ -2,6 +2,16 @@
 
 ### Table of Contents
 
+1. [Introduction](#Introduction)
+2. [Description](#Description)
+3. [How to run the application](#How-to-run-the-application)
+4. [Signing up and signing in](#Signing-up-and-signing-in)
+5. [Front Page](#Front-Page)
+6. [Calendar](#Calendar)
+7. [Match Creation](#Match-creation)
+8. [Group](#Group)
+9. [Profile](#Profile)
+
 ## Introduction
 
 This repository contains code for the badminton team sorter from my personal Final year university
@@ -44,7 +54,7 @@ problems with how it was fill out. After a successful registration you will auto
 
 ![](screenshots/signup errors.png)
 
-## In the application - Front Page
+## Front Page
 
 Since this is a club application designed for badminton clubs. There are going to be some members in the database as there
 are already existing members. This can be increase by adding the players by filling out the different fields that can be 
@@ -63,7 +73,7 @@ that attend the session more people are more likely to join the session.
 
 ![](screenshots/calendar.png)
 
-## Match/Match Creation
+## Match Creation
 
 Each of the people that are in the club are all assigned a rating, this is also called Elo Rating which is commonly found
 in Chess or computer games. When a match is created, it is a random selection of who is each team. The matches will be 
@@ -82,6 +92,9 @@ result has been entered for.
 Here you are able to access everyone that is in the club to view each and every person's detail clearly.
 
 ## Profile
+
+On this page you are able to see that there is a profile picture that can be added to show yourr acocunt details and to be
+personalised to your liking in terms of the profile picture.
 
 
 
